@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/capa.png" alt="CMP627 - Aprendizado Profundo" width="100%">
+  <img src="Assets/capa.png" alt="CMP627 - Aprendizado Profundo" width="100%">
 </p>
 
 # CMP627 — Aprendizado Profundo
@@ -11,7 +11,7 @@ O objetivo deste projeto é reunir, de forma organizada, os principais conceitos
 > Este repositório possui caráter exclusivamente educacional e foi desenvolvido como material complementar de estudo.
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Organização do repositório
@@ -35,7 +35,7 @@ Cada módulo possui seu próprio **README**, contendo:
 - Referências para aprofundamento.
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Estrutura
@@ -58,7 +58,7 @@ deep-learning-ufrgs/
 ```
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Tecnologias utilizadas
@@ -72,7 +72,7 @@ deep-learning-ufrgs/
 - Jupyter Notebook
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Conteúdo
@@ -87,7 +87,7 @@ deep-learning-ufrgs/
 | **Tópicos Especiais** | Transfer Learning, Fine-tuning, LoRA, Ética em IA |
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Créditos
@@ -99,7 +99,7 @@ Os slides e demais materiais didáticos utilizados na disciplina pertencem aos s
 Este projeto reúne exclusivamente minhas anotações, implementações e experimentos, não substituindo o material original da disciplina. Eventuais erros, omissões ou interpretações incorretas são de minha inteira responsabilidade.
 
 <p align="center">
-  <img src="assets/divisoria.png" alt="Divisória" width="100%">
+  <img src="Assets/divisoria.png" alt="Divisória" width="100%">
 </p>
 
 ## Referências
